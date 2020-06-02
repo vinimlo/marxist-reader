@@ -1,0 +1,1 @@
+If you want to help building this extension, download the files and add the ```"manifest.json"``` file at ```about:debugging```
